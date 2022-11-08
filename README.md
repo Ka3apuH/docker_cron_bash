@@ -1,1 +1,2 @@
-# docker_cron_pg_dump
+# docker cron
+Bash скрипт по cron
